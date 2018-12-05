@@ -18,8 +18,17 @@
     color: white;
     padding: 0px 50px;
     margin: 20px 100px;
+    margin-bottom: 50px;
 }
-
+.topic {
+    background-color: lightgray;
+    display: inline;
+    margin: 50px;
+}
+body {
+    padding: 50px;
+}
+/*
 .topic {
     padding: 50px;
     border: 1px solid white; 
@@ -29,3 +38,4 @@
 #topic-color {
     background-color: lightgray;
 }
+*/
