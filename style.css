@@ -9,20 +9,22 @@
 #title {
     background: yellow;
     padding: 20px 50px;
-    margin: 20px 150px;
+    margin: 20px 100px;
 }
 
 #subtitle {
     background: black;
     color: white;
-    padding: 1px 50px;
-    margin: 20px 150px;
-    margin-bottom: 70px;
+    padding: 0px 50px;
+    margin: 20px 100px;
 }
 
 .topic {
-    background: lightgray;
-    display: inline;
-    margin: 50px;
+    padding: 50px;
+    border: 1px solid white; 
+    display: flex; 
+    justify-content: space-around;
 }
-
+#topic-color {
+    background-color: lightgray;
+}
